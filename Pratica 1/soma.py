@@ -1,4 +1,4 @@
-# Esse código viabiliza a operação aritmética com soma, multiplicação, s e divisão.
+# Esse código viabiliza a operação aritmética com soma, multiplicação, subtração e divisão.
 
 # Var1
 numero1 = 12 
