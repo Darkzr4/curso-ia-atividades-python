@@ -1,7 +1,9 @@
 import csv
 import os
 
-arquivo_csv = "dados_pessoas.csv"
+# Obtém o diretório do script
+diretorio_atual = os.path.dirname(__file__)
+arquivo_csv = os.path.join(diretorio_atual, "dados_pessoas.csv")
 
 # Dados a serem acrescentados
 novos_dados = [
